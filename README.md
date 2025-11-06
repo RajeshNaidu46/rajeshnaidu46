@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rajesh 👋
 
-<!--
-**RajeshNaidu46/rajeshnaidu46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer skilled in full-stack web development and machine learning solutions.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I Work With
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL  
+- **Web:** Next.js, React, Flask, Streamlit  
+- **Databases:** PostgreSQL, MySQL, Prisma ORM  
+- **ML:** Scikit-Learn, XGBoost, SHAP, EfficientNet  
+- **Tools:** Git, VS Code, Postman, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [ProPath](https://github.com/RajeshNaidu46/propath) | AI career guidance platform with chatbot + resume analysis | Next.js, OpenAI API, PostgreSQL |
+| [NeuroPulse](https://github.com/RajeshNaidu46/NeuroPulse) | Brain stroke risk prediction (clinical + imaging data) | XGBoost, EfficientNet-B0, SHAP |
+| [Crop Yield Prediction](https://github.com/RajeshNaidu46/crop_yield_prediction-) | Real-time data driven crop recommendations | Python, Streamlit, Random Forest |
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rajesh-naidu-b3bb96323/
